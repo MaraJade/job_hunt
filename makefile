@@ -1,4 +1,4 @@
-TARGET=resume
+TARGET=megan_goossens_resume
 HTML=main_html
 
 default: pdf
