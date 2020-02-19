@@ -1,4 +1,4 @@
-TARGET=megan_goossens_cover_letter
+TARGET=megan_goossens_resume
 HTML=main_html
 
 default: pdf
